@@ -1,2 +1,7 @@
-# Laxmi
-name of the person
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("hello world");
+getch();
+}
